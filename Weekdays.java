@@ -1,4 +1,4 @@
-//曜日の出力（文法１）
+//for文
 public class Weekdays{
     public static void main(String[] args){
         String[] weekdays={"日", "月", "火", "水", "木", "金", "土"};
