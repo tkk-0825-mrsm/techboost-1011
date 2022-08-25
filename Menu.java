@@ -1,21 +1,21 @@
-//3Í—ûK3-5
+//3ç« ç·´ç¿’3-5
 public class Menu{
     public static void main(String []args) {
-        System.out.println("[ƒƒjƒ…[] 1:ŒŸõ 2:“o˜^@3:íœ@4:•ÏX>");
-        //•Ï”‚ğ“ü—Í‚Å‚«‚é‚æ‚¤‚É‚·‚é
+        System.out.println("[ãƒ¡ãƒ‹ãƒ¥ãƒ¼] 1:æ¤œç´¢ 2:ç™»éŒ²ã€€3:å‰Šé™¤ã€€4:å¤‰æ›´>");
+        //å¤‰æ•°ã‚’å…¥åŠ›ã§ãã‚‹ã‚ˆã†ã«ã™ã‚‹
         int serected = new java.util.Scanner(System.in).nextInt();
         switch(serected){
             case 1:
-            System.out.println("ŒŸõ‚µ‚Ü‚·");
+            System.out.println("æ¤œç´¢ã—ã¾ã™");
             break;
             case 2:
-            System.out.println("“o˜^‚µ‚Ü‚·");
+            System.out.println("ç™»éŒ²ã—ã¾ã™");
             break;
             case 3:
-            System.out.println("íœ‚µ‚Ü‚·");
+            System.out.println("å‰Šé™¤ã—ã¾ã™");
             break;
             case 4:
-            System.out.println("•ÏX‚µ‚Ü‚·");
+            System.out.println("å¤‰æ›´ã—ã¾ã™");
             break;
         }
     
