@@ -4,7 +4,7 @@ public class Profire{
         introduceOneself();
     }
     public static void introduceOneself(){
-        String name = Morishima;
+        String name = "Morishima";
         int age = 25;
         double height = 159.5;
         char eto = '丑';
