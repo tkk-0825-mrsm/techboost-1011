@@ -1,14 +1,14 @@
-//ç·´ç¿’4-4
+//—ûK4-4
 public class numberQuiz{
     public static void main (String[]args){
         int [] numbers ={3,4,9};
-        System.out.println("1æ¡ã®æ•°å­—ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„");
-        //ã“ã“ã‹ã‚‰å¾Œã‚ã¯è§£ç­”ç¢ºèªã—ãŸ
+        System.out.println("1Œ…‚Ì”š‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢");
+        //‚±‚±‚©‚çŒã‚ë‚Í‰ğ“šŠm”F‚µ‚½
         int input = new java.util.Scanner(System.in).nextInt();
-        //é…åˆ—ã‚’å›ã—ãªãŒã‚‰åˆ¤å®š
+        //”z—ñ‚ğ‰ñ‚µ‚È‚ª‚ç”»’è
         for(int n:numbers){
             if(n == input){
-                System.out.println("ã‚¢ã‚¿ãƒªï¼");
+                System.out.println("ƒAƒ^ƒŠI");
             }
         }
     }    
