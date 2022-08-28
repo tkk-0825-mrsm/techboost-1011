@@ -1,4 +1,4 @@
-//ç·´ç¿’5ï¼1 ã„ã¾ã„ã¡ç†è§£ã§ãã¦ãªã„ã‹ã‚‚ï¼ˆæˆ»ã‚Šå€¤ï¼‰
+//—ûK5|1 ‚¢‚Ü‚¢‚¿—‰ğ‚Å‚«‚Ä‚È‚¢‚©‚ài–ß‚è’lj
 public class Profire{
     public static void main(String[]args){
         introduceOneself();
@@ -7,10 +7,10 @@ public class Profire{
         String name = "Morishima";
         int age = 25;
         double height = 159.5;
-        char eto = 'ä¸‘';
-    System.out.println("ç§ã®åå‰ã¯"+name+"ã§ã™");
-    System.out.println("å¹´é½¢ã¯"+age+"ã§ã™");
-    System.out.println("èº«é•·ã¯"+height+"ã§ã™");
-    System.out.println("å¹²æ”¯ã¯"+eto+"ã§ã™");
+        char eto = '‰N';
+    System.out.println("„‚Ì–¼‘O‚Í"+name+"‚Å‚·");
+    System.out.println("”N—î‚Í"+age+"‚Å‚·");
+    System.out.println("g’·‚Í"+height+"‚Å‚·");
+    System.out.println("Š±x‚Í"+eto+"‚Å‚·");
     }
 }
