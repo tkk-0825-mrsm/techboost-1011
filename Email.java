@@ -4,9 +4,9 @@ public class Email{
         email();
     }
     public static void email(String[]args){
-        String title = 件名;
-        String address = guest;
-        String text = message;
+        String title = "title";
+        String address = "guest";
+        String text = "message";
         System.out.println(address+"に、以下のメールを送信しました");
         System.out.println("件名:"+title);
          System.out.println("本文:"+text);
