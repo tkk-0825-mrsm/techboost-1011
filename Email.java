@@ -1,6 +1,7 @@
 //練習5－2
 public class Email{
     public static void main (String[]args){
+        
         String title = "title";
         String address = "guest";
         String text = "message";
