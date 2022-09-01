@@ -1,14 +1,14 @@
-//—ûK6-1
+//ç·´ç¿’6-1
 package comment;
 
 public class Kouhan{
     public static void callDeae() {
-    System.out.println("‚¦‚¥‚¢A‚±‚µ‚á‚­‚ÈB‚­‚¹Ò‚¾I‚Å‚ ‚¦‚¢I");
+    System.out.println("ãˆã‡ã„ã€ã“ã—ã‚ƒããªã€‚ãã›è€…ã ï¼ã§ã‚ãˆã„ï¼");
     }
   public static void showMondokoro() throws Exception {
-    System.out.println("”òÔ‚³‚ñAŠp‚³‚ñB‚à‚¤‚¢‚¢‚Å‚µ‚å‚¤B");
-    System.out.println("‚±‚Ì–äŠ‚ª–Ú‚É‚Í‚¢‚ç‚Ê‚©I");
-    doTogame();    // ‚à‚¤ˆê“xA‚Æ‚ª‚ß‚é
+    System.out.println("é£›è»Šã•ã‚“ã€è§’ã•ã‚“ã€‚ã‚‚ã†ã„ã„ã§ã—ã‚‡ã†ã€‚");
+    System.out.println("ã“ã®ç´‹æ‰€ãŒç›®ã«ã¯ã„ã‚‰ã¬ã‹ï¼");
+    doTogame();    // ã‚‚ã†ä¸€åº¦ã€ã¨ãŒã‚ã‚‹
     } 
     
 }

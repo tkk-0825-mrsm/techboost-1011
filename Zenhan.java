@@ -1,12 +1,12 @@
-//—ûK6|1
+//ç·´ç¿’6ï¼1
 package comment;
 
 public class Zenhan{
      public static void doWarusa(){
-        System.out.println("‚«‚È‚±‚Å‚²‚´‚éBH‚¦‚Ü‚¹‚ñ‚ª‚ÌB");
+        System.out.println("ããªã“ã§ã”ã–ã‚‹ã€‚é£Ÿãˆã¾ã›ã‚“ãŒã®ã€‚");
     }
     public static void doTogame(){
-        System.out.println("‚±‚Ì˜V‚¢‚Ú‚ê‚Ì–Ú‚Í‚²‚Ü‚©‚¹‚ñ‚¼B");
+        System.out.println("ã“ã®è€ã„ã¼ã‚Œã®ç›®ã¯ã”ã¾ã‹ã›ã‚“ãã€‚");
     }
 
 }
