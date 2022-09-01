@@ -1,13 +1,13 @@
-//ç·´ç¿’5-4 æˆ»ã‚Šå€¤ãŒã‚ˆãã‚ã‹ã‚‰ãªã„
+//—ûK5-4 –ß‚è’l‚ª‚æ‚­‚í‚©‚ç‚È‚¢
 public class Area{
     public static void main (String []args){
         double  triangleArea = calcTriangleArea(10.0,5.0);
         System.out.println(
-            "ä¸‰è§’å½¢ã®é¢ç©:"+triangleArea+"ã "
+            "OŠpŒ`‚Ì–ÊÏ:"+triangleArea+"?"
         );
         double circleArea = calcCircleArea(5.0);
         System.out.println(
-            "å††ã®é¢ç©:"+circleArea+"ã ");
+            "‰~‚Ì–ÊÏ:"+circleArea+"?");
         }
         public static double calcTriangleArea(double bottom,double height){
             double area =(bottom*height)/2;
