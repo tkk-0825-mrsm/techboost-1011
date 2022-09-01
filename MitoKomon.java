@@ -5,7 +5,7 @@ public class MitoKomon{
     public static void main(String[]args){
      Zenhan.doWarusa();
      Zenhan.doTogame();
-     Kohan.callDeae();
-     Kohan.showMondokoro();   
+     comment.Kohan.callDeae();
+     comment.Kohan.showMondokoro();   
     }   
 }
