@@ -3,9 +3,9 @@ import comment.Zenhan;
 
 public class MitoKomon{
     public static void main(String[]args){
-     doWarusa();
-     doTogame();
-     callDeae();
-     showMondokoro();   
+     Zenhan.doWarusa();
+     Zenhan.doTogame();
+     Kohan.callDeae();
+     Kohan.showMondokoro();   
     }   
 }
