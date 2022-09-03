@@ -2,10 +2,10 @@
 import comment.Zenhan;
 
 public class MitoKomon{
-    public static void main(String[]args){
+    public static void main(String[]args)throws Exception{
      Zenhan.doWarusa();
      Zenhan.doTogame();
-     comment.Kohan.callDeae();
-     comment.Kohan.showMondokoro();   
+     comment.Kouhan.callDeae();
+     comment.Kouhan.showMondokoro();   
     }   
 }

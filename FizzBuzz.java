@@ -1,4 +1,4 @@
-//•¶–@‚P@‰Û‘è‡@ ˆø”‚ÌãŒÀ‚ğŒˆ‚ß‚È‚¢ê‡‚Í‚Ç‚¤‚·‚ê‚Î‚¢‚¢‚©(forˆÈ~)
+//æ–‡æ³•1ã€€èª²é¡Œï¼’ãƒ¼ï¼‘
 public class FizzBuzz{
     public static void main(String[]args){
         for(int i=1; i<=34; i++){
