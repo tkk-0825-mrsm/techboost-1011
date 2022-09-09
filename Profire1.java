@@ -1,7 +1,7 @@
-//ç·´ç¿’5-1 è‡ªåŠ›ã§å®Œäº†ã€€utfã§ã¯æ–‡å­—åŒ–ã‘
+//—ûK5-1 ©—Í‚ÅŠ®—¹@utf‚Å‚Í•¶š‰»‚¯
 public class Profire1{
     public static void main(String[]args){
-        System.out.println("è‡ªå·±ç´¹ä»‹ã‚’ã—ã¾ã™");
+        System.out.println("©ŒÈĞ‰î‚ğ‚µ‚Ü‚·");
     introduceOneself();        
     }
 
@@ -9,10 +9,10 @@ public class Profire1{
         String name = "Takako";
         int age =25;
         double height = 159.5;
-        char eto ='ä¸‘';
-        System.out.println("ç§ã®åå‰ã¯"+name+"ã§ã™");
-        System.out.println("å¹´é½¢ã¯"+age+"ã§ã™");
-        System.out.println("èº«é•·ã¯"+height+"ã§ã™");
-        System.out.println(eto+"å¹´ã§ã™");
+        char eto ='‰N';
+        System.out.println("„‚Ì–¼‘O‚Í"+name+"‚Å‚·");
+        System.out.println("”N—î‚Í"+age+"‚Å‚·");
+        System.out.println("g’·‚Í"+height+"‚Å‚·");
+        System.out.println(eto+"”N‚Å‚·");
     }
 }

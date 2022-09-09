@@ -1,9 +1,9 @@
 public class Minato{
     public static void main(String[]args){
-        System.out.println("ãƒ¡ã‚½ãƒƒãƒˆã‚’å‘¼ã³å‡ºã—ã¾ã™");
-        hello();
+        System.out.println("ƒƒ\ƒbƒg‚ğŒÄ‚Ño‚µ‚Ü‚·");
+        hello(); //helloÒ¿¯Ä‚ğŒÄ‚Ño‚·
     }
     public static void hello(){
-        System.out.println("æ¹Šã•ã‚“ã€ã“ã‚“ã«ã¡ã¯");
+        System.out.println("–©‚³‚ñA‚±‚ñ‚É‚¿‚Í");
     }
 }
