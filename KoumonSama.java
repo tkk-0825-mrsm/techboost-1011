@@ -1,6 +1,7 @@
-//練習6－１　2回目
+//練習6－１　2回目 Zenhan1 class Kouhan1 class どちらもimportするには？
 //import japp.Zenhan1.*;
-//import japp.Kouhan1.*; //importでZenhan1とKouhan1のclassのこの呼び出しはできない？
+//import japp.Kouhan1.*; 
+//2,3行目のかたちではimportでZenhan1とKouhan1のclassのこの呼び出しはできない？
 
 public class KoumonSama{
     public static void main(String[]args) throws Exception{
