@@ -14,9 +14,9 @@ public class RPG{
     m2.suffix = 'B';
 
     //–`Œ¯‚ÌŽn‚Ü‚è
-   h.sit(5);
+   h.sit();
    h.slip();
-   h.sit(25);
+   h.sit();
    h.run();
     }
 }
