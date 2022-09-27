@@ -11,7 +11,7 @@ public class Recorder {
 	}
 	//マップにkeyが存在する時にvalueを出力する(登録済の時)
 	public void get(String key) {
-		if (!map.containsKey(key)) {   //やりたいことの前にチェックを入れる keyがあるかどうか 頭に!がついてたらfauleだったら ⑥はcontainskey
+		if (!map.containskey(key)) {   //やりたいことの前にチェックを入れる keyがあるかどうか 頭に!がついてたらfauleだったら ⑥はcontainkey
 			throw new IllegalArgumentException(); //⑦はthrow エラー内容を表示する　map.containskeyがfaulseだったら if文に入らなかった場合
 		}
 	
@@ -20,7 +20,7 @@ public class Recorder {
 	
 	//引数があるとき
     public void delete(String key) {
-		if (!map.containsKey(key)) {
+		if (!map.containskey(key)) {
 			throw new IllegalArgumentException(); //⑦はthrow keyがマップに存在しなかったら
 		}
 
@@ -34,3 +34,4 @@ public class Recorder {
 		System.out.println("deleted all"); 
 	}
 }
+```
