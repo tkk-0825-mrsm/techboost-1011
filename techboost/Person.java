@@ -1,9 +1,9 @@
 //テックブースト　文法3 課題１ 穴埋めしただけで理解できてない
-public class Person2{
+public class Person{
     public enum Gender { MAN, WOMAN };	
     private Gender gender;
     
-        public Person2(Gender gender) {
+        public Person(Gender gender) {
             this.gender = gender;
         }
     
@@ -18,8 +18,7 @@ public class Person2{
     default:
     }
         }
-    
-        public static void main(String[] args) {
+    public static void main(String[] args) {
             Person man = new Person(Gender.MAN);
             man.speak();
     
