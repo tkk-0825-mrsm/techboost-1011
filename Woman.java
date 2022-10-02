@@ -3,8 +3,8 @@
 public class Woman extends AbstractPerson{
 //なにこれ？
 @Override
-//protectedにしたのはなぜ？
-protected String getGender() {
+//protectedにしたのはなぜ？publicにしたらできた？
+public String getGender() {
 		return "woman"; //return以降わからない
 	}
 }
