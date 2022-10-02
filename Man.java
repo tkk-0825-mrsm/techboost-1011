@@ -4,6 +4,6 @@ public class Man extends AbstractPerson{
 //アノテーション(警告しない？)
     @Override
     public String getGender() {
-		return Man;
+		return "man"; //なんで小文字？
 	}
 }

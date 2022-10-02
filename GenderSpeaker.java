@@ -2,8 +2,8 @@
 //GenderSpeaker class(ˆ—ÀsƒNƒ‰ƒX)
 public class GenderSpeaker{
     public static void main(String[]args){
-        doSpeak(new person = person man());
-		doSpeak(new person = person woman());
+        doSpeak(new Man());
+		doSpeak(new Woman());
 	}
 
 	private static void doSpeak(AbstractPerson person) {
