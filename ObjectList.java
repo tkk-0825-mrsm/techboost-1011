@@ -1,4 +1,4 @@
-//テックブースト　課題3　(質問の答え写した)
+//テックブースト文法3　課題3　(質問の答え写した)
 //ObjectList.java class
 import java.util.ArrayList;
 
