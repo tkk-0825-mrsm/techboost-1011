@@ -11,7 +11,7 @@ public class Recorder {
 	}
 	//マップにkeyが存在する時にvalueを出力する(登録済の時)
 	public void get(String key) {
-		if (!map.containsKey(key)) {   //やりたいことの前にチェックを入れる keyがあるかどうか 頭に!がついてたらfauleだったら ⑥はcontainskey
+		if (!map.containsKey(key)) {   //やりたいことの前にチェックを入れる keyがあるかどうか 頭に!がついてたらfauleだったらいう意味 ⑥はcontainskey
 			throw new IllegalArgumentException(); //⑦はthrow エラー内容を表示する　map.containskeyがfaulseだったら if文に入らなかった場合
 		}
 	
