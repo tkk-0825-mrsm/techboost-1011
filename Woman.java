@@ -1,7 +1,6 @@
 //テックブースト　文法3 課題2　
 //Woman class　継承のclass以降全然わからない　オーバーライドってなに？
 public class Woman extends AbstractPerson{
-//なにこれ？
 @Override
 //protectedにしたのはなぜ？publicにしたらできた？
 public String getGender() {

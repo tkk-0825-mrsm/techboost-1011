@@ -2,8 +2,8 @@
 //GenderSpeaker class(処理実行クラス)
 public class GenderSpeaker{
     public static void main(String[]args){
-//dospeakメソットを呼び出す　メソット名();でメソット名を呼び出す
-    //     
+
+		//dospeakメソットを呼び出す　メソット名();でメソット名を呼び出す    
         doSpeak(new Man()); //インスタンスを作ってそれを引数として渡す　Man型のインスタンス
 		doSpeak(new Woman());
 	}
