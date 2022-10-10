@@ -9,7 +9,8 @@ public class Lambda {
 
 	public static void main(String[] args) {
 		IntStream stream = IntStream.range(1, 10000);
-		stream.forEach(‡@ -> System.out.println(‡B));
+        //ƒ‰ƒ€ƒ_Ž®
+		stream.forEach(FORMATTER -> System.out.println(‡B));
 	}
 
 	private static String currentTime() {
