@@ -4,7 +4,7 @@
 public abstract class AbstractPerson{
     
     //抽象ﾒｿｯﾄ　子クラスのほうでどんな処理するか実装してほしいという意味
-    public abstract String getGender(); //子クラスでこのメソットを必ず作らないといけない
+    abstract public String getGender(); //子クラスでこのメソットを必ず作らないといけない
     public void speak(){
         System.out.println("I'm a " + getGender()); //なぜgetGender()なのか　//子クラスのgetGenderが呼び出される
     }
